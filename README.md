@@ -34,7 +34,7 @@ Our analysis uses the exoplanet dataset, which contains information on confirmed
 ## Getting Started
 
 1. Clone this repository
-2. Install required dependencies: `pip install -r requirements.txt`
+2. Install required dependencies
 3. Run `Exoplanets.ipynb` to start the analysis
 
 ## License
